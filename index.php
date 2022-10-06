@@ -137,6 +137,14 @@
             color: rgba(0, 0, 0, 0.7);
         }
 
+        @media (max-width: 768px) {
+            body{
+                min-width: auto;
+            }
+            
+        }
+
+
     </style>
 
 </head>
