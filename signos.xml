@@ -83,7 +83,16 @@
 
     <signo>
         <dtaInicio>12-22</dtaInicio>
-        <dtaFinal>01-20</dtaFinal>
+        <dtaFinal>12-31</dtaFinal>
+        <descSigno>Capricórnio ♑</descSigno>
+        <personalidade>
+            Trabalhador, tímido e educado, o capricórnio pode passar uma imagem de fechado e até mesmo antipático, mas é que ele eprecisa confiar em quem está ao seu lado para se abrir totalmente. Com paciência, ele se mostra um amigo leal e um companheiro fiel.
+        </personalidade>
+    </signo>
+
+    <signo>
+        <dtaInicio>01-01</dtaInicio>
+        <dtaFinal>01-19</dtaFinal>
         <descSigno>Capricórnio ♑</descSigno>
         <personalidade>
             Trabalhador, tímido e educado, o capricórnio pode passar uma imagem de fechado e até mesmo antipático, mas é que ele eprecisa confiar em quem está ao seu lado para se abrir totalmente. Com paciência, ele se mostra um amigo leal e um companheiro fiel.
